@@ -1,6 +1,6 @@
-# Data & AI Tech Immersion Workshop – Product Review Guide and Lab Instructions
+# Building the Future 2020 – Product Review Guide and Lab Instructions
 
-## Data, Experience 4 - Leveraging Cosmos DB for near real-time analytics
+## Leveraging Cosmos DB for near real-time analytics
 
 - [Data & AI Tech Immersion Workshop – Product Review Guide and Lab Instructions](#Data--AI-Tech-Immersion-Workshop-%E2%80%93-Product-Review-Guide-and-Lab-Instructions)
   - [Data, Experience 4 - Leveraging Cosmos DB for near real-time analytics](#Data-Experience-4---Leveraging-Cosmos-DB-for-near-real-time-analytics)
